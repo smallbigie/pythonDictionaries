@@ -1,9 +1,13 @@
 def main():
     # Initialize an empty dictionary to store fruit data
-    
+
+    myDict = {'fruits': ['apple', 'orange', 'banana']}
 
     # Get the number of fruits to input (input statement). This will be the 
     # number of sets of data you need to collect.
+
+    num = input("Please enter the amount of" fruits "that you would like: ")
+
     
     
 
